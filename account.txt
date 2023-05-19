@@ -1,0 +1,4 @@
+db4free.net
+<<Tu wpisz nazwe uzytkownika>>
+<<Tu wpisz hasło>>
+<<Tu wpisz nazwę bazy>>
